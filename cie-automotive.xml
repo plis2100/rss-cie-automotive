@@ -5,8 +5,16 @@
     <link>https://cieautomotive.com/noticias</link>
     <description>Últimas noticias corporativas y financieras de CIE Automotive</description>
     <language>es</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:38:52 +0000</lastBuildDate>
     <ns0:link href="https://cieautomotive.com/noticias" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIE Automotive acelera su crecimiento y alcanza los 275 millones de euros de beneficio en los nueve primeros meses</title>
+      <link>https://cieautomotive.com/w/cie-automotive-acelera-su-crecimiento-y-alcanza-los-275-millones-de-euros-de-beneficio-en-los-nueve-primeros-meses</link>
+      <description>Con un margen EBITDA del 19% y más de 400 millones de euros de caja operativa</description>
+      <category>CIE Automotive</category>
+      <guid isPermaLink="true">https://cieautomotive.com/w/cie-automotive-acelera-su-crecimiento-y-alcanza-los-275-millones-de-euros-de-beneficio-en-los-nueve-primeros-meses</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>CIE Automotive consolida el primer semestre con un beneficio de casi 200 millones de euros</title>
       <link>https://cieautomotive.com/w/cie-automotive-consolida-el-primer-semestre-con-un-beneficio-de-casi-200-millones-de-euros</link>
@@ -161,14 +169,6 @@ CIE Automotive es una de las primeras empresas españolas que recibe apoyo de co
       <category>CIE Automotive</category>
       <guid isPermaLink="true">https://cieautomotive.com/w/los-objetivos-a-corto-plazo-y-net-zero-de-cie-automotive-validados-por-sbti</guid>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CIE Automotive alcanza los 3.012 millones de facturación  en los primeros nueve meses del año</title>
-      <link>https://cieautomotive.com/w/cie-automotive-alcanza-los-3.012-millones-de-facturaci%C3%B3n-en-los-primeros-nueve-meses-del-a%C3%B1o</link>
-      <description>Destaca asimismo la fuerte generación de caja operativa, que supera los 350 millones de euros en el periodo</description>
-      <category>CIE Automotive</category>
-      <guid isPermaLink="true">https://cieautomotive.com/w/cie-automotive-alcanza-los-3.012-millones-de-facturaci%C3%B3n-en-los-primeros-nueve-meses-del-a%C3%B1o</guid>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
